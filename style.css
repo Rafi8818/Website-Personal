@@ -1,0 +1,43 @@
+body{
+    background:#0f172a;
+    color:#f8fafc;
+    line-height:1.6;
+    padding-top:70px;
+    font-family:Segoe UI, sans-serif;
+}
+
+.hero{
+    padding:100px 20px;
+}
+
+.highlight{
+    color:#38bdf8;
+}
+
+.section-box{
+    background:#020617;
+    border-radius:12px;
+    padding:30px;
+    margin-bottom:40px;
+}
+
+.skills span{
+    display:inline-block;
+    background:#1e293b;
+    padding:8px 14px;
+    border-radius:20px;
+    margin:6px;
+    font-size:14px;
+}
+
+.project{
+    padding:15px;
+    border:1px solid #1e293b;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+
+h2{
+    margin-bottom:20px;
+    color:#38bdf8;
+}
